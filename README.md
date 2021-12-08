@@ -17,24 +17,15 @@
 
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-    <img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/480px-.NET_Core_Logo.svg.png" width="45" height="45"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" width="45" height="45"/>
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
     <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
-    <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
-    <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
-
-
 <br/>
 
 ## 📊 My Github Stats
