@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 
-- 📫 How to reach me **emir2104@gmail.com**
-
 
 ## 🚀 Languages and Tools:
 
