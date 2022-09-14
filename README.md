@@ -13,18 +13,23 @@
 
 ## 🚀 Languages :
 
-<p align="left"> 
+<p align="left">
+    - **Java.** 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
     <br/>
+    - **Kotlin.** 
     <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
     <br/>
+    - **JavaScript.** 
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" width="45" height="45"/>
     <br/>
+    - **Bse de datos.** 
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
     <br/>
+    - **Control de versiones.** 
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <br/>
 </p>
