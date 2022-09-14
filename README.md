@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 
 
-## 🚀 Languages and Tools:
+## 🚀 Languages :
 
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
@@ -23,6 +23,12 @@
     <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
+<br/>
+
+## 🚀 Tools :
+
+<p align="left"> 
     <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 <br/>
 
