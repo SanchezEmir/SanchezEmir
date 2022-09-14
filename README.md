@@ -16,20 +16,20 @@
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" width="45" height="45"/>
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 <br/>
 
 ## 🚀 Tools :
 
 <p align="left"> 
     <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
+    <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
 <br/>
 
 ## 📊 My Github Stats
