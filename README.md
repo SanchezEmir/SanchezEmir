@@ -24,12 +24,12 @@
 <p align="center">
   <h2>:star2: Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,react,angular,npm,netlify,vite,regex&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,angular,npm,vite,regex&perline=6" />
   </a>
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,aws,idea,eclipse,maven,mysql,postgres,dynamodb,firebase,sqlite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,py,spring,nodejs,nestjs,aws,azure,maven,mysql,postgres,dynamodb,firebase,supabase,sqlite&perline=6" />
   </a>
 
   <h2>:hammer: Devops</h2>
@@ -39,7 +39,7 @@
 
   <h2>:wrench: Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,git,gitlab,github,ubuntu&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,androidstudio,postman,docker,git,gitlab,github,ubuntu&perline=6" />
   </a>
 </p>
 <br>
