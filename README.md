@@ -1,6 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+![Github Banner](https://i.imgur.com/iXuL1HG.png)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Emir Sanchez</h1>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Emir Sanchez</h1> -->
+<h1 align="center">Hello 👋 I'm Emir Sanchez</strong> ✨ </h1>
 <h3 align="center">I'm currently studying computing and informatics.</h3>
 
 
@@ -10,61 +11,67 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 
-
-## 🚀 Languages :
-
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-    <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width="75" height="43"/>
-    <br/>
+<p align="center">
+    <a href="https://www.linkedin.com/in/emir-sanchez/"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@emir-sanchez"/></a>
 </p>
 
-<p align="left">    
-    <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+<br>
+
+<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="center">
+  <h2>:star2: Front End</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,react,angular,npm,netlify,vite,regex&perline=6" />
+  </a>
+
+  <h2>:zap: Back End</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,aws,idea,eclipse,maven,mysql,postgres,dynamodb,firebase,sqlite&perline=6" />
+  </a>
+
+  <h2>:hammer: Devops</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jenkins,terraform&perline=12" />
+  </a>
+
+  <h2>:wrench: Tools</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,gitlab,github,ubuntu&perline=6" />
+  </a>
 </p>
+<br>
+<!-------------------------->
 
-<p align="left">    
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" width="45" height="45"/>
-</p>
 
-<p align="left">
-    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
-</p>
+<!------------------------->
 
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-</p>
-
-## 🚀 Tools :
-
-<p align="left"> 
-    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
-    <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-</p>
-<br/>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/sanchezemir/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanchezemir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    
-  <a href="https://github.com/sanchezemir/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezemir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="60%" align="center">
 
-## Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/emir-sanchez/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-</p>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SanchezEmir&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SanchezEmir&theme=dark&hide_border=false" /> 
+</td>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sanchezemir">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/sanchezemir?label=Followers&style=social" alt="GitHub Badge"></a>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/SanchezEmir" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=SanchezEmir&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+</p>       
+<br/>
