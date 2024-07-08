@@ -12,7 +12,9 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/emir-sanchez/"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@emir-sanchez"/></a>
+    <a href="https://www.linkedin.com/in/emir-sanchez/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@emir-sanchez"/>
+    </a>
 </p>
 
 <br>
